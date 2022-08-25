@@ -221,14 +221,14 @@ main .input-main{
     color: #202124;
 }
 
-.pais{
-    width: 580px;    
+.pais{    
+    width: 95%;    
     height: 25px;
     background-color: #f2f2f2;
     text-align: left;   
     font-size: 14px;
     color: #70757a;    
-    padding: 15px 30px;    
+    padding: 15px 33px;   
     margin-top: 195px;
 }
 
